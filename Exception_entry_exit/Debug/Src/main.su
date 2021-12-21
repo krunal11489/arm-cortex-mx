@@ -1,0 +1,4 @@
+main.c:30:6:generate_interrupt	16	static
+main.c:56:5:main	16	static,ignoring_inline_asm
+main.c:76:6:RTC_WKUP_IRQHandler	8	static
+main.c:81:6:HardFault_Handler	8	static
